@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 About Me<br>🔭 Currently working on Django REST Framework backend development.<br>🤝 Looking to collaborate on data science and machine learning projects, along with Django backend.<br>🤝 Seeking help and mentorship in backend developnment and machine learning.<br>🌱 Learning Django DRF, Mathematics, and Streamlit for frontend development—building full-stack intelligent apps.<br>💬 Feel free to ask me about Python, Django, and REST APIs.<br>⚡ Fun fact: Coffee is the secret of my energy! ☕️
+👨‍💻 About Me<br>🔭 Currently working on Django REST Framework backend development.<br>🤝 Looking to collaborate on data science and machine learning projects, along with Django backend.<br>🤝 Seeking help and mentorship in backend developnment and machine learning.<br>🌱 Learning Django DRF, Mathematics, and Streamlit for frontend development—building full-stack intelligent apps.<br>💬 Feel free to ask me about Python, Django, REST APIs and also pinch of Machine Learning.<br>⚡ Fun fact: Coffee is the secret of my energy! ☕️
 
 
 ## 🌐 Socials:
