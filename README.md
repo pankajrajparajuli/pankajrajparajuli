@@ -2,7 +2,7 @@
 
 👨‍💻 About Me  
 🔭 Currently working on Full-stack development.  
-🤝 Looking to collaborate on data science and machine learning projects, along with Backend and Full-stack applications.  
+🤝 Looking to collaborate on AI and machine learning projects, along with Backend and Full-stack applications.  
 💬 Feel free to ask me about JavaScript, TypeScript, Python, Django, NestJS, Node.js, React, Next.js, REST APIs, GraphQL, WebSockets, and AI & Machine Learning.  
 ⚡ Fun fact: Coffee is the secret of my energy! ☕️
 
